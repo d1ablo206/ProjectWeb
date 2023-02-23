@@ -24,11 +24,14 @@ Project is created with:
 # Setup
 To run this project, download the folder as shown:
 ## Download the project
-![Screenshot_275](https://user-images.githubusercontent.com/56961701/220975379-e10104d4-0c55-4087-8f4b-bf929002ea1e.png) ## Open your app ex.: VS code, and select the file you downloaded
+![Screenshot_275](https://user-images.githubusercontent.com/56961701/220975379-e10104d4-0c55-4087-8f4b-bf929002ea1e.png)
+## Open your app ex.: VS code, and select the file you downloaded
 ![Screenshot_276](https://user-images.githubusercontent.com/56961701/220976016-adea6589-a634-403b-917e-b202297bf63f.png)
 ![Screenshot_277](https://user-images.githubusercontent.com/56961701/220976021-8b2d45cb-937c-45e5-8f6f-362415519ee9.png)
 ## Run XAMP and import the data base
+![Screenshot_278](https://user-images.githubusercontent.com/56961701/220977359-d48af315-32bf-4e30-ad0c-b11ef14c4cc3.png)
 ## Run the PHP server for index.php 
+![Screenshot_279](https://user-images.githubusercontent.com/56961701/220977534-1e256df8-587c-4709-93d6-90b182e0f0ae.png)
 
 ## Sources
 This site is done with the help of ImpactAcademy camp.
