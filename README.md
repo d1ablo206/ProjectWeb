@@ -21,12 +21,14 @@ Project is created with:
 * JS
 * BS
 	
-## Setup
+# Setup
 To run this project, download the folder as shown:
-* Download the project
-* Open your code app and run the project
-* Run XAMP and import the data base
-* Run the PHP server for index.php 
+## Download the project
+![Screenshot_275](https://user-images.githubusercontent.com/56961701/220975379-e10104d4-0c55-4087-8f4b-bf929002ea1e.png) ## Open your app ex.: VS code, and select the file you downloaded
+![Screenshot_276](https://user-images.githubusercontent.com/56961701/220976016-adea6589-a634-403b-917e-b202297bf63f.png)
+![Screenshot_277](https://user-images.githubusercontent.com/56961701/220976021-8b2d45cb-937c-45e5-8f6f-362415519ee9.png)
+## Run XAMP and import the data base
+## Run the PHP server for index.php 
 
 ## Sources
 This site is done with the help of ImpactAcademy camp.
